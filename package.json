@@ -1,15 +1,19 @@
 {
-  "name": "connect-mongo",
-  "version": "0.4.2",
+  "name": "ksheedlo-mongo-session",
+  "version": "0.5.0",
   "description": "MongoDB session store for Connect",
   "keywords": ["connect", "mongo", "mongodb", "session", "express"],
   "author": "Casey Banner <kcbanner@gmail.com>",
+  "contributors": [
+    "Ken Sheedlo <ovrkenthousand@gmail.com>"
+  ],
+  "license": "MIT",
   "repository": {
       "type": "git",
-      "url": "https://github.com/kcbanner/connect-mongo.git"
+      "url": "https://github.com/ksheedlo/connect-mongo.git"
   },
   "bugs": {
-      "url": "https://github.com/kcbanner/connect-mongo/issues"
+      "url": "https://github.com/ksheedlo/connect-mongo/issues"
   },
   "dependencies": {
     "mongodb": "1.4.x"
